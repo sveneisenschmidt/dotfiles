@@ -1,0 +1,5 @@
+name: development
+windows:
+  - yay-api:
+    - cd Documents/Projekte/privat/yay-api
+    - clear

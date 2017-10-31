@@ -1,4 +1,0 @@
-name: lokal
-windows: 
-  - shell:
-    - ls -a
